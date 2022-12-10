@@ -53,3 +53,6 @@ https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6
     <td>Speech synthesis system</td>
   </tr>
 </table>
+
+<h2>Poster</h2>
+[Poster.pdf](https://github.com/benedicttzh/Companion-Robot-For-Elderly/files/10199940/Poster.pdf)
