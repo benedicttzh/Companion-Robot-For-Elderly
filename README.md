@@ -12,21 +12,20 @@ https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6
 
 
 <h2>Modules</h2>
-<b>Assisting Module by Lai Liang Chun</b>
-1. Image Text-to-Speech
+<b>Assisting Module by Lai Liang Chun</b><br/>
+1. Image Text-to-Speech<br/>
 2. Video Streaming
 
-<b>Movement Module by Benedict Tan Zhi Hang</b> 
-1. Human Following
+<b>Movement Module by Benedict Tan Zhi Hang</b> <br/>
+1. Human Following<br/>
 2. Remote movement control via web app
 
-
 <h2>Technologies and APIs</h2>
-<b>Programming Languages</b>
- 1. PHP
- 2. JavaScript
- 3. Python
- 4. CSS
+<b>Programming Languages</b><br/>
+ 1. PHP<br/>
+ 2. JavaScript<br/>
+ 3. Python<br/>
+ 4. CSS<br/><br/>
 
 <b>APIs</b>
 <table style="width: 100%; border: 1px solid black;">
