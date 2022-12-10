@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6
 <b>Assisting Module by Lai Liang Chun</b><br/>
 1. Image Text-to-Speech<br/>
 2. Video Streaming<br/><br/>
-<b>Movement Module by Benedict Tan Zhi Hang</b>
+<b>Movement Module by Benedict Tan Zhi Hang</b><br/>
 1. Human Following<br/>
 2. Remote movement control via web app
 
