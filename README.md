@@ -55,4 +55,5 @@ https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6
 </table>
 
 <h2>Poster</h2>
-[Poster.pdf](https://github.com/benedicttzh/Companion-Robot-For-Elderly/files/10199940/Poster.pdf)
+[Poster.pdf](https://github.com/benedicttzh/Companion-Robot-For-Elderly/files/10199942/Poster.pdf)
+
