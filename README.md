@@ -1,7 +1,7 @@
 # Companion-Robot-For-Elderly
 This is a final year project developed by Benedict Tan Zhi Hang and Lai Liang Chun.
 
-<h1>Brief Video Introduction</h1>
+<h2>Brief Video Introduction</h2>
 
 
 https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6-bb48-5d38360fa509.mp4
