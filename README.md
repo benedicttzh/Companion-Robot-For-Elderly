@@ -55,6 +55,6 @@ https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6
 </table>
 
 <h2>Poster</h2>
-![Poster](https://user-images.githubusercontent.com/120158142/206852408-8a7bddc9-8c84-4a17-b698-19908faaceb7.jpg)
+![](img/Poster.jpg)
 
 
