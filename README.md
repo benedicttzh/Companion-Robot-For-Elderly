@@ -56,7 +56,9 @@ https://user-images.githubusercontent.com/120158142/206851518-aac6ca45-40e0-43e6
 
 <h2>Poster</h2>
 <div style="border: 1px solid black">
+ 
 ![Poster](https://user-images.githubusercontent.com/120158142/206852609-f557b458-5ed9-4b12-aca1-0bdcf26fe3fd.jpg)
+ 
 </div>
 
 
